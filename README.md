@@ -84,10 +84,8 @@ These volumes ensure that your WordPress content and database data persist acros
 - **Permission Issues**: If you encounter permission errors, ensure that Docker has the necessary permissions to create and access the `wp_data` and `db_data` directories.
 - **MySQL Connection Error**: Double-check the database settings in the WordPress setup wizard and ensure they match the `docker-compose.yml` file.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-This README provides a detailed and professional guide to setting up and running your Dockerized WordPress app. Let me know if you'd like any adjustments!
+
