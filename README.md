@@ -14,13 +14,6 @@ This repository contains a Dockerized setup for running WordPress with a MySQL d
 - [Docker](https://docs.docker.com/get-docker/) installed on your machine.
 - [Docker Compose](https://docs.docker.com/compose/install/) installed.
 
-## Project Structure
-```
-.
-├── docker-compose.yml        # Docker Compose configuration for WordPress and MySQL
-├── wp_data/                  # WordPress data volume (auto-generated)
-```
-
 ## How to Run the Project
 
 1. **Clone the Repository**:
